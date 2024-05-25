@@ -1,0 +1,6 @@
+.grid-containerbox {
+  display: flex;
+  /*background-color: black;*/
+  flex-direction: column;
+  gap: 5px;
+}

@@ -1,0 +1,6 @@
+@Gorgal.Server_HostAddress = http://localhost:5283
+
+GET {{Gorgal.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

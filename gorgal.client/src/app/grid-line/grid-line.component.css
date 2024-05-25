@@ -1,0 +1,11 @@
+.grid-containerline {
+  display: flex;
+  /*background-color: darkred;*/
+  gap: 5px;
+}
+
+.grid-item {
+  background-color: darkgreen;
+  width: 25px;
+  height: 25px;
+}
